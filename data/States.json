@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"autoRemovalTiming":1,"chanceByDamage":50,"iconIndex":7,"maxTurns":4,"message1":" ¡está enamorado!","message2":" ¡está enamorado!","message3":"","message4":" ¡ya no está enamorado!","minTurns":2,"motion":1,"name":"Enamoramiento","note":"","overlay":6,"priority":80,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":3,"stepsToRemove":100,"traits":[]}
+]
